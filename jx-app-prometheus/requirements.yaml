@@ -1,5 +1,5 @@
 ---
 dependencies:
 - name: "prometheus"
-  repository: "@stable"
-  version: 8.10.3
+  repository: "https://prometheus-community.github.io/helm-charts"
+  version: 13.0.0
